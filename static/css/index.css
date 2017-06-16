@@ -39,6 +39,9 @@ table td{
 	vertical-align: top;
 }
 
+img.alignleft{float:left}
+img.alignright{float:right}
+img.aligncenter{display:block;margin:0 auto}
 
 #index a:link {color: #005}		/* 未访问的链接 */
 #index a:visited {color: #669}	/* 已访问的链接 */
