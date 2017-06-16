@@ -1,6 +1,26 @@
-[송남영](http://www.huffingtonpost.kr/2017/06/12/story_n_17053432.html)
+2016.06.20  대한민국 Issue
+==
+[1.송남영](http://www.huffingtonpost.kr/2017/06/12/story_n_17053432.html)
 --
-![송남영](http://t1.gstatic.com/images?q=tbn:ANd9GcSY5Uln0NUes3WZLDBwRZaOLNQ1dnS6rlUe8WZQVIMVN7oaK4m-wvP1qeHiUvUsbsBya1GD7MIf)
+10000+ Search
+![허핑턴포스트](http://t1.gstatic.com/images?q=tbn:ANd9GcSY5Uln0NUes3WZLDBwRZaOLNQ1dnS6rlUe8WZQVIMVN7oaK4m-wvP1qeHiUvUsbsBya1GD7MIf)
 송남영씨는 이날 오후 암으로 사망했다. 송남영씨는 수년간 암 투병 중이었으며, 갑상선암이 간과 위로 전이돼 결국 세상을 떠난 것으로 알려졌다. 송남영씨의 빈소는 신촌 세브란스병원 장례식장에 마련됐으며 발인은 오는 14일 정오이며 장지는 에덴낙원공원...
-
 ###### 허핑턴포스트
+[2.코나](http://www.hani.co.kr/arti/economy/car/798576.html)
+--
+5000+ Search
+![한겨레](http://t1.gstatic.com/images?q=tbn:ANd9GcTqP-ZQ_6c708Y19-9atR3lUH0JeHssD4eLNAo9ILx4U1Vg7zjXjaxXXEdOkEyHPM-Z9ka8XHQW)
+현대차는 이날 경기 고양시 현대모터스튜디오에서 신차발표회를 열어 글로벌 소형 스포츠실용차로 개발한 코나를 공개한 뒤 2020년까지 스포츠실용차의 풀라인업 구축을 뼈대로 한 중장기 상품 전략을 발표했다. 소형 스포츠실용차는 덩치는 작지만 선호도가...
+###### 한겨레
+[3.NBA](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201706132114015&code=980300)
+--
+2000+ Search
+![VOA Korea](http://t0.gstatic.com/images?q=tbn:ANd9GcTa3ZP2G3_xld2Vgl0XGCdBZkAKd55leypEdVKOSw3u5OpQ4I1ko7o31s40emjnugU9EY3eY4mT)
+MVP 나야 나 골든스테이트의 포워드 케빈 듀란트가 13일 미국 캘리포니아주 오클랜드 오라클 아레나에서 2016~2017시즌 미국프로농구(NBA) 챔피언결정전 최우수선수(MVP) 트로피를 들어 보이고 있다. 오클랜드 | USA투데이 연합뉴스...
+###### 경향신문
+[4.임재범 부인](http://www.etoday.co.kr/news/section/newsview.php?idxno=1502405)
+--
+2000+ Search
+![이투데이](http://t1.gstatic.com/images?q=tbn:ANd9GcQ6TeBDbLmcsdHVu3NwCBwOOGjkvC91hYHkDw689QSYOtzzHLb47JQFyH06EePDU7D1613BLW3n)
+가수 임재범의 아내 송남영이 갑상선암으로 별세하면서 갑상선암에 관심이 쏠리고 있다. 임재범 아내 송남영은 12일 오후 평소 투병해 온 갑성선암이 간, 위와 자궁 등으로 전이되면서 사망했다. 향년 45세. 갑상선암은 진행이 매우 느리기 때문에 적절한 치료를...
+###### 이투데이
