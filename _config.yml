@@ -109,9 +109,9 @@ toc:
 ## if you don't want display contents in a specified post,you can modify `front-matter` and add `toc: false`.
 
 #### Links
-links:
-  码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+# links:
+  # 码农圈: https://coderq.com
+  # Jark's Blog: http://wuchong.me
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.       website: http://duoshuo.com
@@ -147,7 +147,7 @@ totop: true           ## if you want to scroll to top in every post set the valu
 #### Custom Search
 google_cse:
   enable: false
-  cx: 018294693190868310296:abnhpuysycw  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
+  cx: partner-pub-8848625896086089%3A6662259051  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
 ## https://www.google.com/cse/
 ## To enable the custom search You must create a "search" folder in '/source' and a "index.md" file
 ## set the 'front-matter' as
@@ -163,4 +163,4 @@ tinysou_search:     ## http://tinysou.com/
   id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
 
 gems:
- - jemoji
+ # - jemoji
