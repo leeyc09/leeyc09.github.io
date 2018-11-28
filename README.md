@@ -1,40 +1,35 @@
-# DroidKnights
+# Landing Page Jekyll theme
 
-드로이드나이츠 사이트 + 블로그 입니다
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
-## 블로그
-made by jekyll
-
-#### dev
-``` shell
-$bundle exec jekyll server --w
-
-localhost:4000 접속
+```txt
+---
+layout: default
+img: ipad.png
+category: Services
+title: The service title
+---
+The description of this service
 ```
 
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
-## 스케쥴 홈페이지
-made by vue.js, webpack 
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
-#### dev
+===
 
-``` shell
-$cd 2017
-$npm install
-$npm run dev
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
 
-localhost:8080 접속
-```
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-
-
-#### delpoy
-
-``` shell
-$cd 2017
-$npm run build
-$cd ..
--> git add, commit, push
-```
-
+## Version
+1.0.1
