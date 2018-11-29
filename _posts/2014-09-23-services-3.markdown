@@ -1,6 +1,7 @@
 ---
 layout: default
-img: discount.png
+img1: discount.png
+img2: 
 category: Services
 title: 놀랍도록 저렴한 가격
 description: |
